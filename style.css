@@ -119,8 +119,9 @@ animation: fillcolor 1s ease 5.3s;
 }
 
 @media screen and (max-width: 1024px){
-    #logo{
-        width: 500;
-        height: 225;
+    *{
+        padding: 3vw  ;
+        margin: 0px;
+        box-sizing: border-box;
     }
 }
